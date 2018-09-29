@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenMP", "OpenMP\OpenMP.vcxproj", "{C9508818-E976-4582-8DCA-6320F616119E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9508818-E976-4582-8DCA-6320F616119E}.Debug|x64.ActiveCfg = Debug|x64
+		{C9508818-E976-4582-8DCA-6320F616119E}.Debug|x64.Build.0 = Debug|x64
+		{C9508818-E976-4582-8DCA-6320F616119E}.Debug|x86.ActiveCfg = Debug|Win32
+		{C9508818-E976-4582-8DCA-6320F616119E}.Debug|x86.Build.0 = Debug|Win32
+		{C9508818-E976-4582-8DCA-6320F616119E}.Release|x64.ActiveCfg = Release|x64
+		{C9508818-E976-4582-8DCA-6320F616119E}.Release|x64.Build.0 = Release|x64
+		{C9508818-E976-4582-8DCA-6320F616119E}.Release|x86.ActiveCfg = Release|Win32
+		{C9508818-E976-4582-8DCA-6320F616119E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEDDD3E1-E109-4446-B08C-BCA9BDE5EE7B}
+	EndGlobalSection
+EndGlobal

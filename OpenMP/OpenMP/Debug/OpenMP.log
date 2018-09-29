@@ -1,0 +1,11 @@
+﻿  ppm_lib.cpp
+c:\users\jeanf\source\repos\openmp\openmp\ppm_lib.cpp(17): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: voir la déclaration de 'fopen'
+c:\users\jeanf\source\repos\openmp\openmp\ppm_lib.cpp(51): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: voir la déclaration de 'fscanf'
+c:\users\jeanf\source\repos\openmp\openmp\ppm_lib.cpp(57): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: voir la déclaration de 'fscanf'
+c:\users\jeanf\source\repos\openmp\openmp\ppm_lib.cpp(91): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: voir la déclaration de 'fopen'
+  OpenMP.cpp
+  Génération de code en cours...
